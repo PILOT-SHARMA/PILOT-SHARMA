@@ -18,7 +18,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/arpit-sharma-86246b337/)" target="blank">
+<a href="https://www.linkedin.com/in/arpit-sharma-86246b337/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -26,7 +26,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="[https://instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/_.shiks.___/)" target="blank">
+<a href="https://www.instagram.com/_.shiks.___/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
